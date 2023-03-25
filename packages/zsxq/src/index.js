@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Disable Copy Event Listener on zsxq
-// @namespace    https://your-namespace-here/
+// @namespace    https://github.com/BillQiu/TMScript
+// @author       Bill Qiu
 // @version      1.0
 // @description  Disable copy event listener on wx.zsxq.com
 // @match        https://*.zsxq.com/*
